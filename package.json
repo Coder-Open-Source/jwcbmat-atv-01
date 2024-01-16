@@ -1,0 +1,14 @@
+{
+  "name": "jwcbmat-atv-01",
+  "version": "1.0.0",
+  "description": "Welcome to my simple web application using Dockerized, and with CI/CD configured.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
